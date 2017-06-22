@@ -44,10 +44,11 @@ h2 {
 background-image: url("../images/frame.png");
 background-size: contain;
 background-repeat: no-repeat;
+width: 100%;
 }
 .white-frame {
   position: absolute;
-  width: 30%;
+  width: 40%;
   float: right;
 }
 
